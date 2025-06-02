@@ -24,7 +24,6 @@ This project performs exploratory data analysis on two datasets: `movies.csv` an
 
 ## 🚀 How to Run
 1. Clone this repo.
-2. Place `movies.csv` and `directors.csv` in the `data/` directory.
 3. Run `imdb.ipynb` using Jupyter Notebook or Google Colab.
 
 ---
